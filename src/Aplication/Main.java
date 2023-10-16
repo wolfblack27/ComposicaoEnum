@@ -12,8 +12,8 @@ public class Main {
 
 	public static void main(String[] args) {
 
-		Departamento dp = new Departamento("RH");
-		System.out.println(NivelTrabalho.JUNIOR);
+		
+		
 
 	}
 

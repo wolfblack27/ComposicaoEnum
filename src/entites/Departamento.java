@@ -3,6 +3,11 @@ package entites;
 public class Departamento {
 	private String nomeDepartamento;
 
+	public Departamento() {
+		
+		
+	}
+	
 	public Departamento(String nomeDepartamento) {
 		this.nomeDepartamento = nomeDepartamento;
 		
